@@ -5,6 +5,8 @@ O notebook de análise está no **Google Colab**.
 
 ## Estrutura do repositório
 
+```
+
 transito-br-clustering/
 ├─ data/
 │  ├─ raw/         # Arquivos originais, sem tratamento
@@ -13,3 +15,5 @@ transito-br-clustering/
 │  │  └─ ...
 │  └─ processed/   # Arquivos já consolidados e prontos para análise
 │     └─ acidentes_2015_2024.csv
+
+```
